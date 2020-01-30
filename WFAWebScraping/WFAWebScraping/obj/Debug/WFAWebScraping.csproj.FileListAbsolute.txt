@@ -1,0 +1,13 @@
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\bin\Debug\WFAWebScraping.exe.config
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\bin\Debug\WFAWebScraping.exe
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\bin\Debug\WFAWebScraping.pdb
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\obj\Debug\WFAWebScraping.csprojAssemblyReference.cache
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\obj\Debug\WFAWebScraping.Form1.resources
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\obj\Debug\WFAWebScraping.Properties.Resources.resources
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\obj\Debug\WFAWebScraping.csproj.GenerateResource.cache
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\obj\Debug\WFAWebScraping.csproj.CopyComplete
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\obj\Debug\WFAWebScraping.exe
+C:\Users\Matheus Gimenez\source\repos\WFAWebScraping\WFAWebScraping\obj\Debug\WFAWebScraping.pdb
